@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 quare_matrix_simple(matrix=[]):
 	new_matrix = matrix.copy()
 
